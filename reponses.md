@@ -38,10 +38,12 @@
     > - Glassfish
     > - Jetty
 1. "*Dans quel fichier se trouve la configuration des servlets d’une application web ?*"
-    >
+    > La configuration des servlets se fait via les packages `javax.servlet` et `javax.servlet.http`.
 1. "*Donner une rapide définition de REST*"
-    >
+    > REST est une convention de communication entre client-server basés sur certains principes (endpoint d'url et protocole explicite, langage commun XML/JSON/...).
 1. "*Quelles sont les 3 directives spécifiées par les spécifications des JSP ? (les citer et indiquer leurs rôles)*"
-    >
+    > - *page* : permet de définir des options de configuration
+    > - *include* : permet d'inclure des fichiers statiques dans la JSP avant la génération de la servlet
+    > - *taglib* : permet de définir des tags personnalisés
 1. "*Donner une rapide définition de ORM*"
-    >
+    > Technique de programmation informatique qui crée l'illusion d'une base de données orientée objet à partir d'une base de données relationnelle en définissant des correspondances entre cette base de données et les objets du langage utilisé. On pourrait le désigner par «correspondance entre monde objet et monde relationnel ».
