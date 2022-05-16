@@ -4,6 +4,7 @@
     > Maven est un outil de build pour java, permettant de gérer les dépendances à partir d'une source de packages.
 1. "*Quelle est l’arborescence d’un projet d’une application web utilisant maven ?*"
     > pom.xml
+    > 
     > src
     > > main
     > > > java
